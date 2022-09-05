@@ -1,0 +1,49 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.banana {
+  font-family: ;
+  width: 100vw;
+  height: 100vh;
+  text-align: center;
+  background-image: url('https://images.unsplash.com/photo-1604148482093-d55d6fc62400?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8YmFuYW5hfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  color: yellow;
+  margin-bottom: 5vh;
+}
+
+.kontostand {
+  margin-bottom: 5vh;
+  font-size: 1.8em;
+  color: yellow;
+}
+
+p {
+  font-size: 3em;
+  color: yellow;
+}
+
+input {
+  padding: 10px 30px;
+
+}
+
+button {
+  padding: 10px 30px;
+  margin: 10vh 1vh;
+  background-color: yellow;
+  color: black;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: black;
+  color: white;
+}
